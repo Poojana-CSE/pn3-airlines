@@ -81,7 +81,7 @@ int main() {
 }
 
 void displayMenu() {
-    printf("\n*** Airline Reservation System ***\n");
+    printf("\n\t\t\t\t\t\tPN3 AIRLINES\n");
     printf("1. Book Flight\n");
     printf("2. Display Passenger Information\n");
     printf("3. Check Seat Availability\n");
